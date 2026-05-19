@@ -27,7 +27,7 @@ I work at the intersection of **agentic AI architecture**, **content intelligenc
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
 | 🌐 **[ensolabs.ai](https://ensolabs.ai)** | AI transformation studio — 71 JSON-LD schemas, MCP endpoint, AEO-optimized | Next.js 14, TypeScript, Vercel | ✅ Live |
-| 📶 **[signal2noise](https://signals.ensolabs.ai)** | Autonomous AI signal intelligence for marketing strategists — 200+ sources, daily | React, Firebase, Claude, n8n | ✅ Live |
+| 📶 **[signal2noise](https://ensolabs.ai/insights)** | Autonomous AI signal intelligence for marketing strategists — 200+ sources, daily | React, Firebase, Claude, n8n | ✅ Live |
 | 🧠 **[AI Market Sensing POC](https://github.com/nycsav/ai-market-sensing-poc)** | Custom LLM architecture for enterprise market intelligence — open case study | Claude, RAG, Python | 📖 Public Case Study |
 | 🔒 **Enso Market Intelligence Engine** | Patent velocity + funding flows + regulatory signal detection for R&D strategy | Python, Claude, RAG | 🔧 In Development |
 | 🔒 **Enso News Intelligence Engine** | Macro signals + earnings catalysts + sector momentum for institutional research | Python, Claude | 🔧 In Development |
